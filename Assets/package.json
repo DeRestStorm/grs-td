@@ -1,7 +1,7 @@
 {
   "name": "com.grs.grs-td",
   "displayName": "grs-td",
-  "version": "0.0.2-preview",
+  "version": "0.0.3-preview",
   "unity": "2019.2",
   "description": "for grs-td project.",
   "dependencies": {
